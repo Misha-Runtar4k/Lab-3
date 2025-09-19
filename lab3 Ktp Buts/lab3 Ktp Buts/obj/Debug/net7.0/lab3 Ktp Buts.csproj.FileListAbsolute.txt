@@ -1,0 +1,15 @@
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/lab3 Ktp Buts.csproj.AssemblyReference.cache
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/lab3 Ktp Buts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/lab3 Ktp Buts.AssemblyInfoInputs.cache
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/lab3 Ktp Buts.AssemblyInfo.cs
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/lab3 Ktp Buts.csproj.CoreCompileInputs.cache
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/bin/Debug/net7.0/lab3 Ktp Buts
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/bin/Debug/net7.0/lab3 Ktp Buts.deps.json
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/bin/Debug/net7.0/lab3 Ktp Buts.runtimeconfig.json
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/bin/Debug/net7.0/lab3 Ktp Buts.dll
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/bin/Debug/net7.0/lab3 Ktp Buts.pdb
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/lab3 Ktp Buts.dll
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/refint/lab3 Ktp Buts.dll
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/lab3 Ktp Buts.pdb
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/lab3 Ktp Buts.genruntimeconfig.cache
+/Users/misha/Projects/lab3 Ktp Buts/lab3 Ktp Buts/obj/Debug/net7.0/ref/lab3 Ktp Buts.dll
